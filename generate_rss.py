@@ -11,7 +11,7 @@ from feedgen.feed import FeedGenerator
 # =========================================================
 # CHANGE ONLY THIS LINE FOR A DIFFERENT NOVEL
 # =========================================================
-START_URL = "https://novelfull.net/cultivation-online-novel/chapter-1-cultivation-online.html"
+START_URL = "https://www.wuxiaworld.com/novel/nine-star-hegemon/nshba-chapter-0-1"
 
 STATE_FILE = "state.json"
 OUTPUT_FILE = "docs/feed.xml"
